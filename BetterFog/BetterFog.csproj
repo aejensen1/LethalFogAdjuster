@@ -134,7 +134,27 @@
     <None Include="Assets\FogAssetBundle\fogsettingsgui" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="0Harmony.dll" />
+    <Content Include="Assembly-CSharp.dll" />
+    <Content Include="BepInEx.dll" />
+    <Content Include="BepInEx.Harmony.dll" />
+    <Content Include="LethalCompanyInputUtils.dll" />
     <Content Include="Newtonsoft.Json.dll" />
+    <Content Include="Unity.InputSystem.dll" />
+    <Content Include="Unity.Netcode.Runtime.dll" />
+    <Content Include="Unity.RenderPipelines.Core.Runtime.dll" />
+    <Content Include="Unity.RenderPipelines.HighDefinition.Runtime.dll" />
+    <Content Include="Unity.TextMeshPro.dll" />
+    <Content Include="UnityEngine.AssetBundleModule.dll" />
+    <Content Include="UnityEngine.AudioModule.dll" />
+    <Content Include="UnityEngine.CoreModule.dll" />
+    <Content Include="UnityEngine.dll" />
+    <Content Include="UnityEngine.IMGUIModule.dll" />
+    <Content Include="UnityEngine.PhysicsModule.dll" />
+    <Content Include="UnityEngine.TextRenderingModule.dll" />
+    <Content Include="UnityEngine.UI.dll" />
+    <Content Include="UnityEngine.UIElementsModule.dll" />
+    <Content Include="UnityEngine.UIModule.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
