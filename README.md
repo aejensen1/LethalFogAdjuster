@@ -58,6 +58,13 @@ Known Bugs
 ==============
 - "LC Simplified Chinese Localization" By NarkiriFox in combination with this mod causes text to lose their texture and become unreadable. This affects a very small group of players. To mitigate, set "Enable Settings Hotkey" to false and graphics will not be loaded in. This also disabled in-game settings, but text displays correctly.
 
+Custom/Modded Weathers
+==============
+
+BetterFog is compatible with any custom and modded weathers, such as [Wesleys_Weathers](https://thunderstore.io/c/lethal-company/p/Magic_Wesley/Wesleys_Weathers/) and [MrovWeathers](https://thunderstore.io/c/lethal-company/p/mrov/MrovWeathers/), given they do not use spaces in the weather's name, due to the way weathers are targeted by it.
+
+That means that [WeatherTweaks](https://thunderstore.io/c/lethal-company/p/mrov/WeatherTweaks/)' combined and transitional weathers are not compatible as of now due to their format, which includes spaces. Any weathers made using the [Combined_Weathers_Toolkit](https://thunderstore.io/c/lethal-company/p/Zigzag/Combined_Weathers_Toolkit/) though are compatible as long as the weather name does not include spaces, which can be used as a workaround to include combined weathers regardless as of now.
+
 To-Dos
 ==============
 - New modes
